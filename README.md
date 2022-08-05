@@ -15,19 +15,19 @@
 ### Looking for NON MD,go there [NON MD ZERO TWO](https://github.com/Fantox001/Zero-Two)
 ### How to enable Zero-Two On your number
 -   First Open `Github Link Of Zero Two`
--  Click on Fork Button upwards right corner
--  Click on `Scan Qr` button down blew
--  `Open WhatsApp` > `Tap on three dot` > `Linked Devices` > `Link a Device`
--  You'll get `SESSION_ID` in your log number,Keep it safe
--  Click on `Deploy` text in Image down blew 
--  Fill `Config Vars` and SESSION_ID which you acquired before and Tap on `DEPLOY`
--  `Open Heroku` > `choose app` > `Resources` > `Tap on Pencil` and `Turn on Dynos`
--  Bot is Working Now,Enjoy ♥️
+-   Click on Fork Button upwards right corner
+-  Tap Deploy Image down blew and Fill config vars
+-   Tap on Deploy button and wait 1 min
+-   Tap manage and go on `Resources` and turn on web dynos,tap on open app and Scan Qr code from WhatsApp.
+-   After Scanning you can use [Kaffeine](https://kaffeine.herokuapp.com/) or just switch to worker from web.
+-   Bot is Working Now,Enjoy ♥️
 
 - `Thank me later.`
 # Main Features of Bot
+- PM Permit (Upcoming)
 - First Whatsapp Bot with `Auto Nsfw detection with percentage`
 - First whatsapp bot with `NLP AI`
+- text to Sticker(like Quotely Telegram Bot)
 - Scribd link unlocker
 - Torrent Search
 - Translator for any language
@@ -93,9 +93,9 @@ npm start
 
 ## Developers
 
-[![XEON](https://github.com/dgxeon.png?size=80)](https://github.com/dgxeon) | [![Fantox](https://github.com/fantox001.png?size=100)](https://github.com/fantox001) | [![Sam Pandey](https://github.com/sampandey001.png?size=109)](https://github.com/sampandey001) | [![ISSA](https://github.com/issa2001.png?size=80)](https://github.com/issa2001) | [![Aaditya](https://github.com/addycracker.png?size=80)](https://github.com/addycracker)
+[![XEON](https://github.com/dgxeon.png?size=80)](https://github.com/dgxeon) | [![Fantox](https://github.com/fantox001.png?size=100)](https://github.com/fantox001) | [![Sam Pandey](https://github.com/sampandey001.png?size=109)](https://github.com/sampandey001) | [![ISSA](https://github.com/issa2001.png?size=80)](https://github.com/issa2001) | [![Prince-Mendiratta](https://github.com/Prince-Mendiratta.png?size=80)](https://github.com/Prince-Mendiratta)
 ----|----|----|----|----
-[XEON](https://wa.me/916909137213) | [Fantox](https://wa.me/918101187835) | [Sam Pandey](https://wa.me/919628516236) | [Issa](https://wa.me/254115175696) | [Aditya](https://wa.me/919681777261)
+[XEON](https://wa.me/916909137213) | [Fantox](https://wa.me/918101187835) | [Sam Pandey](https://wa.me/919628516236) | [Issa](https://wa.me/254115175696) | [Prince-Mendiratta](https://wa.me/917838204238)
 Base Bot  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules, | Modules, Idea | Modules
 
 
